@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the topics of data science, machine learning, power system analysis.
 - 📫 How to reach me via email zubairabbas9519@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am left-handed person :)
+- ⚡ Fun fact: I like history :D
 
 <!---
 zubair9519/zubair9519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
